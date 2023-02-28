@@ -1,0 +1,2 @@
+# PricingPage
+Pricing page template
